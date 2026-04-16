@@ -13,19 +13,9 @@ You will do everything on:
 
 If you can edit text on a website, you can use this project.
 
-## Super short version
-
-If you want the fastest possible explanation, do this:
-
-1. Fork the project on GitHub
-2. Edit `index.html` on GitHub
-3. Upload your photo in `assets/images/`
-4. Deploy the project on Vercel
-5. Share your live website link
-
 ## How this will work
 
-You will follow this simple path:
+You will follow this simple path (detailed instructions are below):
 
 1. Open the project on GitHub
 2. Make your own copy by using **Fork**
