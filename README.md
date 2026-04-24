@@ -91,6 +91,8 @@ Example:
 
 This means you should replace it with your real information.
 
+This includes placeholders like `[Your Name]`, `[YN]`, and `[yourname@email.com]`.
+
 ## How to make your own copy on GitHub
 
 ### What "Fork" means
@@ -144,15 +146,17 @@ Replace these things first:
 
 1. your name
 2. your title
-3. your short introduction
-4. your skills
-5. your projects
-6. your work or internship experience
-7. your education
-8. your phone number
-9. your email
-10. your LinkedIn link
-11. your GitHub link
+3. your browser tab title (`<title>[Your Name]</title>`)
+4. your initials in the logo/photo fallback (`[YN]`)
+5. your short introduction
+6. your skills
+7. your projects
+8. your work or internship experience
+9. your education
+10. your phone number
+11. your email
+12. your LinkedIn link
+13. your GitHub link
 
 ### How the Send Message button works
 
@@ -163,8 +167,8 @@ So it should not open Microsoft Outlook.
 Important:
 
 - It works best if you are already signed in to Gmail
-- You should replace `yourname@email.com` in `index.html` with your own email address
-- The email row in the contact section also uses Gmail
+- Replace `[yourname@email.com]` in `index.html` with your own email address
+- Update **both** Gmail links (the `Send a Message` button and the Email contact row) so they send to your email
 
 ## How to upload your photo on GitHub
 
@@ -350,7 +354,9 @@ Before clicking deploy, make sure:
 
 - your real name is added
 - your title is added
+- your initials (`[YN]`) are replaced
 - your email is correct
+- both Gmail links use your real email address
 - your LinkedIn link is correct
 - your GitHub link is correct
 - your photo is uploaded
